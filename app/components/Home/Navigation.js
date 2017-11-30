@@ -51,6 +51,14 @@ class Navigation extends Component {
           }}><i className="ion-camera icon"></i></span>
         </div>
 
+        <div className="navigation-text">
+          <span id="home-text">Home</span>
+          <span id="profile-text">Profile</span>
+          <span id="bookmark-text">Bookmarks</span>
+          <span id="search-text">Search</span>
+          <span id="upload-text">Upload</span>
+        </div>
+
       </div>
     )
   };

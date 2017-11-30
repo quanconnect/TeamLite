@@ -29020,6 +29020,35 @@
 	              } },
 	            _react2.default.createElement("i", { className: "ion-camera icon" })
 	          )
+	        ),
+	        _react2.default.createElement(
+	          "div",
+	          { className: "navigation-text" },
+	          _react2.default.createElement(
+	            "span",
+	            { id: "home-text" },
+	            "Home"
+	          ),
+	          _react2.default.createElement(
+	            "span",
+	            { id: "profile-text" },
+	            "Profile"
+	          ),
+	          _react2.default.createElement(
+	            "span",
+	            { id: "bookmark-text" },
+	            "Bookmarks"
+	          ),
+	          _react2.default.createElement(
+	            "span",
+	            { id: "search-text" },
+	            "Search"
+	          ),
+	          _react2.default.createElement(
+	            "span",
+	            { id: "upload-text" },
+	            "Upload"
+	          )
 	        )
 	      );
 	    }

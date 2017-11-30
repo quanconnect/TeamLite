@@ -53,6 +53,14 @@ html {
   transform: translate(-50%, 0);
 }
 
+.navigation-text {
+  padding: 0 10px;
+}
+
+#home-text {
+  padding-left: 10px;
+}
+
 .menu-items {
   padding-top: 4em;
 }
@@ -105,7 +113,7 @@ html {
 	border-radius: 0px 15px 15px 15px;
 	padding: 5px 20px 20px 20px;
 	margin: 20px;
-  margin-top: 6em;
+  margin-top: 7em;
   float: left;
   height: 25em;
   overflow-y: scroll;
